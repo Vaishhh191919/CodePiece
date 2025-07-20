@@ -1,0 +1,13 @@
+# Node + React
+node_modules/
+dist/
+build/
+
+# Environment
+server/.env
+client/.env
+
+# OS + Editor junk
+.vscode/
+.DS_Store
+Thumbs.db
